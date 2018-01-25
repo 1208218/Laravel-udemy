@@ -163,7 +163,7 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
 
-        'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider', // Laravel IDE helper
+        'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider', // Laravel IDE helpe
 
         /*
          * Package Service Providers...
